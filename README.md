@@ -53,7 +53,7 @@ cd nutrition-chatbot
 # 2. Create a virtual environment
 python -m venv .venv
 .venv\Scripts\activate   # For Windows
-# source .venv/bin/activate  # For macOS/Linux
+.venv/bin/activate  # For macOS/Linux
 
 # 3. Install dependencies
 pip install -r requirements.txt
